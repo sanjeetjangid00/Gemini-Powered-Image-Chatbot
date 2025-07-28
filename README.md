@@ -1,9 +1,10 @@
 # Gemini-Powered-Image-Chatbot
 -----------------------------
-### App Link - 
+### App Link - https://gemini-vision-chatbot.streamlit.app/
 --------
 #### NOTE: At the first time, it will display "This app has gone to sleep due to inactivity. Would you like to wake it back up? Yes, get this app back up!" Then click on the "Yes, get this app back up!" button.
 
+![gemini-vision](https://github.com/user-attachments/assets/181eb149-403a-4c47-98bf-e8d065d3a2bf)
 
 This project demonstrates a chatbot application using Google's Generative AI (Gemini Flash). It allows users to upload an image and ask questions related to the image, receiving AI-generated responses.
 
